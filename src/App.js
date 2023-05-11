@@ -103,7 +103,7 @@ export default function App() {
           </div>
         </section>
 
-        <section className={`${styles.container}`}>
+        <section className={styles.container}>
           <div>
             <h2 style={{ fontSize: '4rem', color: '#fff' }}>
               Tools to dominate your competitors
@@ -156,46 +156,46 @@ export default function App() {
         </div>
         <div>
           <span>MAIN FEATURES</span>
-          <a href="/$">Rank Tracker</a>
-          <a href="/$">Reporting</a>
-          <a href="/$">Site Audit</a>
-          <a href="/$">Agency Rank Tracker</a>
-          <a href="/$">Daily Rank Tracking</a>
-          <a href="/$">Enterprise Rank Tracker</a>
+          <a href="/#">Rank Tracker</a>
+          <a href="/#">Reporting</a>
+          <a href="/#">Site Audit</a>
+          <a href="/#">Agency Rank Tracker</a>
+          <a href="/#">Daily Rank Tracking</a>
+          <a href="/#">Enterprise Rank Tracker</a>
         </div>
 
         <div>
           <span>OTHER TOOLS</span>
-          <a href="/$">Search Engine Simulator</a>
-          <a href="/$">Mobile Rank Tracker</a>
-          <a href="/$">YouTube Rank Tracker</a>
-          <a href="/$">Local SERP Tracking</a>
-          <a href="/$">Bing Rank Tracker</a>
-          <a href="/$">Large-Scale Rank Tracking</a>
+          <a href="/#">Search Engine Simulator</a>
+          <a href="/#">Mobile Rank Tracker</a>
+          <a href="/#">YouTube Rank Tracker</a>
+          <a href="/#">Local SERP Tracking</a>
+          <a href="/#">Bing Rank Tracker</a>
+          <a href="/#">Large-Scale Rank Tracking</a>
         </div>
         <div>
           <span>RESOURCES</span>
-          <a href="/$">Affiliate Program</a>
-          <a href="/$">Member Perks</a>
-          <a href="/$">Help Docs</a>
-          <a href="/$">API Docs</a>
-          <a href="/$">Blog</a>
-          <a href="/$">Product Roadmap</a>
+          <a href="/#">Affiliate Program</a>
+          <a href="/#">Member Perks</a>
+          <a href="/#">Help Docs</a>
+          <a href="/#">API Docs</a>
+          <a href="/#">Blog</a>
+          <a href="/#">Product Roadmap</a>
         </div>
         <div />
         <div>
           <span>COMPARE</span>
-          <a href="/$">Ahrefs Rank Tracker</a>
-          <a href="/$">ERPRobot/SERPLab</a>
-          <a href="/$">SAdvanced Web Ranking</a>
-          <a href="/$">GetStat</a>
+          <a href="/#">Ahrefs Rank Tracker</a>
+          <a href="/#">ERPRobot/SERPLab</a>
+          <a href="/#">SAdvanced Web Ranking</a>
+          <a href="/#">GetStat</a>
         </div>
         <div>
           <span>COMPANY</span>
-          <a href="/$">Contact us</a>
-          <a href="/$">Jobs</a>
-          <a href="/$">Policy </a>
-          <a href="/$">Terms of Service</a>
+          <a href="/#">Contact us</a>
+          <a href="/#">Jobs</a>
+          <a href="/#">Policy </a>
+          <a href="/#">Terms of Service</a>
         </div>
         <div>
           <span>AWARDS</span>
