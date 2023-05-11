@@ -181,6 +181,7 @@ footer {
   justify-content: center;
   padding: 5rem;
   gap: 30px;
+  font-family: 'eudoxus sans';
   div {
     color: #fff;
     background-color: #1a1a1a;
@@ -190,9 +191,12 @@ footer {
   a {
     padding: 10px;
     color: #bdbad1;
-    // &: hover #fff;
+    &:hover {
+      color: #fff;
+    }
   }
   span {
     padding: 10px;
+    letter-spacing: 3px;
   }
 }
